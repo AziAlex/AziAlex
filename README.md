@@ -5,12 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azialex" alt="azialex" /></a> </p>
 
+- 🔭 I’m currently working on **Fre**
+
 - 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React, HTML, CSS, JavaScript**
 
+- ⚡ Fun fact **I think I am funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@alex_azi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@alex_azi_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alexandru picicurov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandru picicurov" height="30" width="40" /></a>
 </p>
 
