@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azialex&show_icons=true&locale=en" alt="azialex" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azialex&" alt="azialex" /></p>
+
+![image](https://github.com/AziAlex/AziAlex/assets/102092661/27b02068-f7cb-46a9-a7fe-09cceee17b59)
+
