@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Fre**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Nest.js**
 
 - 💬 Ask me about **React, HTML, CSS, JavaScript**
 
